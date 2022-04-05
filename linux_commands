@@ -1,0 +1,6 @@
+sudo apt update && sudo apt install terminator (this is for different command line in ubuntu)
+cat .bash_history (to see history of commands you typed)
+echo $HISTFILESIZE (2000 commands can be written/store)
+history (history of commands can show 1000 commands)
+echo $HISTSIZE (gives 1000 , which represents 1000 commands can be in history)
+linux commands are case sensitive (small & capital letter can be treated differently)
